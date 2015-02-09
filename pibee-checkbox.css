@@ -1,0 +1,153 @@
+.pibee-checkbox {
+  background: url("images/checkok2.png") no-repeat scroll -0px -0px transparent;                
+  cursor: pointer;
+  display: block;
+  float: left;
+  height: 14px;
+  margin-right: 6px;
+  width: 15px;
+}
+
+.pibee-checkbox.checked {
+  background-position: -0px -15px !important;
+}
+
+.pibee-checkbox.checked-undefined {
+  background-position: -0px -30px !important;
+}
+
+
+.pibee-checkbox.select {
+  background-position: -0px -30px !important;
+}
+.pibee-radio {
+  background: url("images/radiook.png") no-repeat scroll 0px 0px transparent;                
+  cursor: pointer;
+  display: block;
+  float: left;
+  height: 14px;
+  margin-right: 6px;
+  width: 17px;
+}
+
+.pibee-radio.checked {
+  background-position: -0px -15px !important;
+}
+
+.incompleto-cabeza {
+    background: url("images/cabeza.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 13px;
+    width: 61px;
+}
+
+.incompleto-cuerpo {
+    background: url("images/cuerpo.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 13px;
+    width: 98px;
+}
+
+.incompleto-cola {
+    background: url("images/cola.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 13px;
+    width: 61px;
+}
+.encurso-cabeza {
+    background: url("images/cabeza-p.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 13px;
+    width: 61px;
+}
+
+.encurso-cuerpo {
+    background: url("images/cuerpo-p.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 13px;
+    width: 98px;
+}
+
+.encurso-cola {
+    background: url("images/cola-p.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 13px;
+    width: 61px;
+}
+.completo-cabeza {
+    background: url("images/cabeza-f.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 13px;
+    width: 61px;
+}
+
+.completo-cuerpo {
+    background: url("images/cuerpo-f.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 13px;
+    width: 98px;
+}
+
+.completo-cola {
+    background: url("images/cola-f.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 13px;
+    width: 61px;
+}
+
+.completo-barra-cabeza {
+    background: url("images/Head-full.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 11px;
+    width: 45px;    
+}
+
+.incompleto-barra-cabeza {
+    background: url("images/Head-null.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 11px;
+    width: 45px;    
+}
+
+.completo-barra-cuerpo {
+    background: url("images/Body-full.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 11px;
+    width: 43px;    
+}
+
+.incompleto-barra-cuerpo {
+    background: url("images/Body-null.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 11px;
+    width: 43px;    
+}
+
+.completo-barra-cola {
+    background: url("images/Tail-full.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 11px;
+    width: 42px;    
+}
+
+.incompleto-barra-cola {
+    background: url("images/Tail-null.png") no-repeat scroll 0px 0px transparent;                
+    display: block;
+    float: left;
+    height: 11px;
+    width: 42px;    
+}
